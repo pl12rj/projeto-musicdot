@@ -1,0 +1,93 @@
+body {
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;
+    line-height: 1.5;
+
+}
+
+.titulo {
+    color: #3D3D3D;
+    background-color: #E1EDF2;
+    text-align: left;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+.subtitulo {
+    border-bottom: 2px solid black;
+}
+
+figure {
+    text-align: center;
+    background-color: whitesmoke;
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+    
+}
+
+.matriz-musicdot {
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+  
+    
+}
+
+.familia-tupfeln {
+    width: 275px;
+    float: right;
+    padding-top: 10px;
+}
+
+figure img {
+    width: 100%;
+}
+
+.contato_subtitulo {
+    display: inline-block;
+}
+
+.contato_secao {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 16px;
+}
+
+.contato_secao--telefone {
+    margin-left: 20px;
+}
+
+.contato_info {
+    margin: 16px 0 24px;
+    padding-left: 32px;
+}
+
+.tel_line, .tel_linha {
+    display: inline;
+}
+
+.tel_linha {
+    margin: 10px;
+}
+
+.rodape {
+    padding: 1.75em 0;
+    font: 1.1rem;
+}
+
+.rodape_logo {
+   width: 6em; 
+}
+
+.rodape_logo_copy {
+    display: inline;
+    margin-left: 1em;
+}
